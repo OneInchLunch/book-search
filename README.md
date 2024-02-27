@@ -8,6 +8,8 @@ This is a simple little react typescript project that searches [openlibrary](htt
 - ISBN
 - Number of pages
 
+Favicon sourced from: [svgrepo](https://www.svgrepo.com/svg/513272/book-closed)
+
 ### Runnin the code:
 You will need to have [node](https://nodejs.org/en) installed.
 
