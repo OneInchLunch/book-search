@@ -14,13 +14,22 @@ Favicon sourced from: [svgrepo](https://www.svgrepo.com/svg/513272/book-closed)
 You will need to have [node](https://nodejs.org/en) installed.
 
 Clone the project:
-```git clone git@github.com:OneInchLunch/book-search.git```
+
+```
+git clone git@github.com:OneInchLunch/book-search.git
+```
 
 Go into the cloned project:
-```cd book-search```
+```
+cd book-search
+```
 
 Install the dependencies:
-```npm install```
+```
+npm install
+```
 
 And run the code:
-```npm run dev```
+```
+npm run dev
+```
