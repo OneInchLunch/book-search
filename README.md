@@ -8,9 +8,11 @@ This is a simple little react typescript project that searches [openlibrary](htt
 - ISBN
 - Number of pages
 
-Favicon sourced from: [svgrepo](https://www.svgrepo.com/svg/513272/book-closed)
+Favicon sourced from: [svgrepo](https://www.svgrepo.com/svg/513272/book-closed).
 
-### Runnin the code:
+[Tailwind CSS](https://tailwindcss.com/) is used for styling.
+
+### Running the code:
 You will need to have [node](https://nodejs.org/en) installed.
 
 Clone the project:
