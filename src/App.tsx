@@ -8,7 +8,7 @@ const App = () => {
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState<Books | null>(null);
   const [userInput, setUserInput] = useState('');
-  const [isVisible, setIsVisible] = useState(true);
+  const [isVisible, setIsVisible] = useState(false);
   const [message, setMessage] = useState('');
 
   const fetchData = async (input: string) =>{
